@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local documents and generated vector database
+base/
+db/
+gabarito/
+
+.vscode/
